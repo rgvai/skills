@@ -7,7 +7,10 @@ A curated collection of AI coding agent skills for software development, archite
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [code-architect](https://github.com/rgvai/code-architect) | Software architecture design, code structure planning, and technical documentation | ✅ Active |
+| [deep-research-agent](https://github.com/rgvai/deep-research-agent) | Research feature for comprehensive, multi-step information gathering and analysis. | ✅ Active |
 | [marketingskills](https://github.com/rgvai/marketingskills) | Marketing skills for AI agents including CRO, copywriting, SEO, analytics, and growth engineering | ✅ Active |
+
+
 
 ## 🚀 How to Use
 
