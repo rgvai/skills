@@ -14,6 +14,12 @@ This repository serves as a central hub linking to all public skills developed a
 |-------|-------------|------------|
 | **Code Architect** | Software architecture design, code structure planning, and technical documentation for building scalable, maintainable systems | [rgvai/code-architect](https://github.com/rgvai/code-architect) |
 
+### Deployment & Infrastructure
+
+| Skill | Description | Repository |
+|-------|-------------|------------|
+| **OpenClaw Cloudflare Setup** | Step-by-step guidance for deploying OpenClaw on Cloudflare Workers with R2 storage, including Zero Trust security configuration | [rgvai/openclaw-cloudflare-setup](https://github.com/rgvai/openclaw-cloudflare-setup) |
+
 ### Marketing & Copywriting
 
 | Skill | Description | Repository |
@@ -82,6 +88,25 @@ A comprehensive skill for software architecture design that helps with:
 "Help me architect a microservices system for an e-commerce platform"
 "Create an ADR for our database selection"
 "Design the folder structure for a React/Node.js application"
+```
+
+### OpenClaw Cloudflare Setup
+
+A deployment guide skill for setting up OpenClaw on Cloudflare infrastructure:
+
+- Cloudflare account setup and billing configuration
+- Workers and R2 storage service configuration
+- GitHub repository integration
+- Anthropic API key configuration
+- Secure token generation
+- Zero Trust security configuration (the critical step most tutorials miss)
+- Device authorization for initial access
+
+**Usage:**
+```
+"Help me deploy OpenClaw on Cloudflare"
+"Guide me through the OpenClaw Cloudflare setup"
+"Set up Zero Trust for my OpenClaw deployment"
 ```
 
 ### Sell Like Crazy Skill
@@ -203,6 +228,7 @@ Contributions are welcome! If you'd like to:
 - **Sabri-Suby-Headline-Skill**: MIT License
 - **code-architect**: See repository
 - **deep-research-agent**: MIT License
+- **openclaw-cloudflare-setup**: MIT License
 - **marketingskills**: MIT License (fork of coreyhaines31/marketingskills)
 - **ucp**: Apache License 2.0 (fork of Universal-Commerce-Protocol/ucp)
 
